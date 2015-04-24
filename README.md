@@ -1,2 +1,2 @@
 # newrepo
-my first new readme file
+I made some changes
