@@ -1,2 +1,2 @@
 # newrepo
-I made some changes
+second change
